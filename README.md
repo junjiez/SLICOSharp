@@ -9,3 +9,7 @@ More information about SLICO superpixel segmenation can be found on: http://ivrl
 
 [1] Radhakrishna Achanta, Appu Shaji, Kevin Smith, Aurelien Lucchi, Pascal Fua, and Sabine Susstrunk. "SLIC Superpixels Compated to State-of-the-art Superpixel Methods", IEEE TPAMI, November2012.
 
+## Exemplary result
+
+The images below shows an example of superpixel segmentation of the program:
+
