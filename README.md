@@ -12,4 +12,4 @@ More information about SLICO superpixel segmenation can be found on: http://ivrl
 ## Exemplary result
 
 The images below shows an example of superpixel segmentation of the program:
-
+(https://github.com/junjiez/SLICOSharp/blob/master/superpixel5.jpg Example)
